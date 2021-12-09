@@ -7,6 +7,10 @@
         ],
         "hbsTemplates": [
             { 
+                "root": "templates",
+                "pattern": "product.hbs"
+            },
+            { 
                 "root": "partials",
                 "pattern": "*.hbs"
             },
